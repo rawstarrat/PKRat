@@ -31,10 +31,10 @@ import os
 
 name = os.getlogin()
 
-AdmidID = "iddiddiddiddiddiddidd"
+AdmidID = "7293893210"
 
 TOKENS = [
-    "TOKENNNNNN1",
+    "7527331185:AAFlGDKkhEwZ5y8u5N64vjzO37hvaLQ7L_8",
     "TOKENNNNNN2",
     "TOKENNNNNN3",
     "TOKENNNNNN4"
